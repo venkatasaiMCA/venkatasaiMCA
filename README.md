@@ -23,28 +23,28 @@ Here are some ideas to get you started:
 <a href="https://github.com/venkatasaiMCA">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
+<!--
 <a href="https://www.instagram.com/pythonlifetelugu/?hl=en">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.youtube.com/channel/UC3Qe9c8dZqnjwcDD2vCZBKQ">
   <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
-
+-->
 
 <br><br>
 
 
-## <p align="center"><h4 align="center"><samp> An Python Developer, An Open Source Contributor, Youtuber  & A Competitive Programmer, online Trainer </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> An Python Developer, A Competitive Programmer </samp></h4></p>
 
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
   
-- 🔭 I’m currently working on PythonLife
+- 🔭 I’m currently working as a Jr software engineer
 - 🌱 I’m currently learning Artificial Intelligence
-- 👯 I’m looking to collaborate on Youtube
 - 💬 Ask me about Computer Vision
-- 📫 How to reach me: pythonlifekiran@gmail.com
+- 📫 How to reach me: baduguvenkatasai444@gmail.com
   <br>
 </div>
 
@@ -55,11 +55,12 @@ Here are some ideas to get you started:
 
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>
-
+<!--
 ![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
+-->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
