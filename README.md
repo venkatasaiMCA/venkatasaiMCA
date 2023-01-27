@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **venkatasaiMCA/venkatasaiMCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey Everyone! I'm [Kiransagar](https://github.com/kiransagar1) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone 👋! I'm [Venkatasai Badugu](https://github.com/venkatasaiMCA) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
 
 <a href="https://www.linkedin.com/in/kiran-sagar-a00a761b2/">
